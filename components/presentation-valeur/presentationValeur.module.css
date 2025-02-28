@@ -1,0 +1,21 @@
+/* Full height image header */
+.header {
+    background-position: center;
+    background-size: cover;
+    background-image: url("../../../../public/landing-image.webp");
+    min-height: 32rem;
+    margin-bottom: 8rem;
+    display: flex;
+    padding: 4rem;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.headings {
+    display: grid;
+    gap: 2rem;
+}
+
+.section {
+    margin-bottom: 8rem;
+}
